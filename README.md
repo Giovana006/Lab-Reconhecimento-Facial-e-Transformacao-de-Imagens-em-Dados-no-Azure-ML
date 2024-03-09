@@ -32,13 +32,13 @@ Passo-a-Passo da Etapa no Vídeo a Seguir:
 
 <video src="Passo-a-Passo%20-%20Teste%20Identificar%20o%20Rosto.mp4" controls title="Title"></video>
 
-Teste de Imagem:
+**Teste de Imagem:**
 
 Ao selecionar a imagem desejada podemos realizar a análise facial.
 
-Imagem usada: 01_facial_análise.jpg
+Imagem utilizada: [01_facial_análise.jpg](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/01_facial_analysis.jpg)
 
-![Mãe, Filha e Cachorro](01_facial_analysis.jpg)
+<img src="Inputs/01_facial_analysis.jpg">
 
 Detecção de atributos:
 
@@ -73,11 +73,13 @@ De acordo com o Passo-a-Passo do vídeo a seguir:
 
 <video src="Passo-a-Passo%20-%20Teste%20Identificar%20Texto.mp4" controls title="Title"></video>
 
-Teste de Texto:
+**Teste de Texto:**
 
 Ao selecionar a imagem desejada podemos realizar a extração de texto.
 
-![Cartão de Crétito - Extração de Texto](<Cartão de Crétito - Extração de Texto.png>)
+Imagem utilizada: [Cartão de Crédito.jpg](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Cart%C3%A3o%20de%20Cr%C3%A9dito.jpg)
+
+<img src="Inputs/Cartão de Crédito.jpg">
 
 Você pode conferir os resultados da análise aqui: Cartão_de_Crédito.json
 
@@ -92,21 +94,30 @@ De acordo com o Passo-a-Passo do vídeo a seguir:
 
 <video src="Passo-a-Passo%20-%20Teste%20Legenda%20de%20Imagem.mp4" controls title="Title"></video>
 
-Teste de Legenda de Imagem:
+**Teste de Legenda de Imagem:**
 
 Ao selecionar a imagem desejada podemos realizar a extração de texto.
 
 **Resultado em Inglês:**
 
-![Família](<Foto de Família - Legenda de Imagem - Legenda em Inglês.png>)
+Imagem utilizada: [Foto de Família - Legenda de Imagem - Legenda em Inglês.png](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Foto%20de%20Fam%C3%ADlia%20-%20Legenda%20de%20Imagem%20-%20Legenda%20em%20Ingl%C3%AAs.png)
+
+<img src="Inputs/Foto de Família - Legenda de Imagem - Legenda em Inglês.png">
+
+Você pode conferir os resultados da análise aqui: Foto_de_Família/Inglês.json
 
 **Resultado em Português:**
 
-![Alt text](<Família - Legenda de Imagem - Legenda em Português.png>)
+![Família](<Família - Legenda de Imagem - Legenda em Português.png>)
+
+Imagem utilizada: [Família - Legenda de Imagem - Legenda em Português.png](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Fam%C3%ADlia%20-%20Legenda%20de%20Imagem%20-%20Legenda%20em%20Portugu%C3%AAs.png)
+
+<img src="Inputs/Família - Legenda de Imagem - Legenda em Português.png">
+
+Você pode conferir os resultados da análise aqui: Foto_de_Família/Português.json
 
 É possível observar que o serviço Azure Vision Studio conseguiu descrever o momento em que a imagem passa de forma assertiva.
 
-Você pode verificar os resultados da análise aqui: 03_add_caption_to_image.json
 
 ### **Links importantes:**
 
