@@ -14,14 +14,13 @@ do Azure. Na próxima etapa, configuraremos o Recurso e criaremos um novo Grupo 
 
 Para criar clicamos em “Revisar + Criar” e depois em “Criar”, como demonstrado no vídeo.
 
-<video src="Passo-a-Passo%20de%20Criar%20um%20Recurso%20no%20Azure%20ML.mp4" controls title="Passo-a-Passo de Criar um Recurso no Azure ML"></video>
-
+<video src="Assets/Passo-a-Passo%20de%20Criar%20um%20Recurso%20no%20Azure%20ML.mp4" controls title="Passo-a-Passo de Criar um Recurso no Azure ML"></video>
 
 ### Etapa 2: Acessando o Portal Vision Studio
 
 Após o recurso ter sido criado, acessaremos o [Portal do Vision Studio](https://portal.vision.cognitive.azure.com/demo/image-captioning) . **Acesse com a sua conta Azure** e vá em "View all resorces" e será apresentado o recurso criado na etapa anterior. Marque a opção do seu laboratório (nome) do seu recurso Azure que criamos na etapa anterior de acordo com os passo-a-passos do vídeo a seguir:
 
-<video src="Passo-a-Passo%20no%20Vision%20Studio-1.mp4" controls title="Title"></video>
+<video src="Assets/Passo-a-Passo%20no%20Vision%20Studio-1.mp4" controls title="Passo-a-Passo no Vision Studio"></video>
 
 ### Etapa 3: detectar rostos em uma imagem
 Na página inicial do Portal Vision Studio, acessei a aba "Face" e cliquei em "Detect faces in an images".
@@ -30,7 +29,7 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 Passo-a-Passo da Etapa no Vídeo a Seguir:
 
-<video src="Passo-a-Passo%20-%20Teste%20Identificar%20o%20Rosto.mp4" controls title="Title"></video>
+<video src="Assets/Passo-a-Passo%20-%20Teste%20Identificar%20o%20Rosto.mp4" controls title="Passo-a-Passo - Teste Identificar o Rosto"></video>
 
 **Teste de Imagem:**
 
@@ -71,7 +70,7 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 De acordo com o Passo-a-Passo do vídeo a seguir:
 
-<video src="Passo-a-Passo%20-%20Teste%20Identificar%20Texto.mp4" controls title="Title"></video>
+<video src="Assets/Passo-a-Passo%20-%20Teste%20Identificar%20Texto.mp4" controls title="Passo-a-Passo - Teste Identificar Texto"></video>
 
 **Teste de Texto:**
 
@@ -92,7 +91,7 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 De acordo com o Passo-a-Passo do vídeo a seguir:
 
-<video src="Passo-a-Passo%20-%20Teste%20Legenda%20de%20Imagem.mp4" controls title="Title"></video>
+<video src="Assets/Passo-a-Passo%20-%20Teste%20Legenda%20de%20Imagem.mp4" controls title="Passo-a-Passo - Teste Legenda de Imagem"></video>
 
 **Teste de Legenda de Imagem:**
 
@@ -107,8 +106,6 @@ Imagem utilizada: [Foto de Família - Legenda de Imagem - Legenda em Inglês.png
 Você pode conferir os resultados da análise aqui: Foto_de_Família/Inglês.json
 
 **Resultado em Português:**
-
-![Família](<Família - Legenda de Imagem - Legenda em Português.png>)
 
 Imagem utilizada: [Família - Legenda de Imagem - Legenda em Português.png](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Fam%C3%ADlia%20-%20Legenda%20de%20Imagem%20-%20Legenda%20em%20Portugu%C3%AAs.png)
 
