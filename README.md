@@ -59,7 +59,7 @@ Máscara facial: não
 
 É importante destacar a capacidade que a Visão Computacional teve de identificar diferentes rostos, incluindo o rosto de um animal, e também os rostos de pessoas usando máscara.
 
-Você pode conferir os resultados da análise aqui: [01_facial_análise.json]()
+Você pode conferir os resultados da análise aqui: [01_facial_análise.json](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Output/Face%20API/01_facial_an%C3%A1lise.json)
 
 ### Etapa 4: Análise de Documentos
 Vamos trabalhar com o módulo Extração de texto de imagens do Vision Studio.
@@ -80,7 +80,7 @@ Imagem utilizada: [Cartão de Crédito.jpg](https://github.com/Giovana006/Lab-Re
 
 <img src="Inputs/Cartão de Crédito.jpg">
 
-Você pode conferir os resultados da análise aqui: Cartão_de_Crédito.json
+Você pode conferir os resultados da análise aqui: [Cartão_de_Crédito.json](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Output/OCR/Cart%C3%A3o_de_Cr%C3%A9dito.json)
 
 ### Etapa 5: adicione legendas às imagens
 Vamos trabalhar com o módulo Adicionar legendas às imagens do Vision Studio.
@@ -103,7 +103,7 @@ Imagem utilizada: [Foto de Família - Legenda de Imagem - Legenda em Inglês.png
 
 <img src="Inputs/Foto de Família - Legenda de Imagem - Legenda em Inglês.png">
 
-Você pode conferir os resultados da análise aqui: Foto_de_Família__Inglês.json
+Você pode conferir os resultados da análise aqui: [Foto_de_Família__Inglês.json](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Output/Legendas/Legenda%20de%20Fam%C3%ADlia%20em%20Ingl%C3%AAs/Foto_de_Fam%C3%ADlia__Ingl%C3%AAs.json)
 
 **Resultado em Português:**
 
@@ -111,7 +111,7 @@ Imagem utilizada: [Família - Legenda de Imagem - Legenda em Português.png](htt
 
 <img src="Inputs/Família - Legenda de Imagem - Legenda em Português.png">
 
-Você pode conferir os resultados da análise aqui: Foto_de_Família__Português.json
+Você pode conferir os resultados da análise aqui: [Foto_de_Família__Português.json](https://github.com/Giovana006/Lab-Reconhecimento-Facial-e-Transformacao-de-Imagens-em-Dados-no-Azure-ML/blob/main/Output/Legendas/Legenda%20de%20Fam%C3%ADlia%20em%20Portuugu%C3%AAs/Foto_de_Fam%C3%ADlia__Portugu%C3%AAs.json)
 
 É possível observar que o serviço Azure Vision Studio conseguiu descrever o momento em que a imagem passa de forma assertiva.
 
