@@ -16,6 +16,8 @@ Para criar clicamos em “Revisar + Criar” e depois em “Criar”, como demon
 
 <video src="Assets/Passo-a-Passo%20de%20Criar%20um%20Recurso%20no%20Azure%20ML.mp4" controls title="Passo-a-Passo de Criar um Recurso no Azure ML"></video>
 
+![Passo-a-Passo de Criar um Recurso no Azure ML](<Passo-a-Passo de Criar um Recurso no Azure ML.gif>)
+
 ### Etapa 2: Acessando o Portal Vision Studio
 
 Após o recurso ter sido criado, acessaremos o [Portal do Vision Studio](https://portal.vision.cognitive.azure.com/demo/image-captioning) . **Acesse com a sua conta Azure** e vá em "View all resorces" e será apresentado o recurso criado na etapa anterior. Marque a opção do seu laboratório (nome) do seu recurso Azure que criamos na etapa anterior de acordo com os passo-a-passos do vídeo a seguir:
