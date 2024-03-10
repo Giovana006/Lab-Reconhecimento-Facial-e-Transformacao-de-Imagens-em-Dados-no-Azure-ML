@@ -22,7 +22,7 @@ Após o recurso ter sido criado, acessaremos o [Portal do Vision Studio](https:/
 
 <video src="Assets/Passo-a-Passo%20no%20Vision%20Studio-1.mp4" controls title="Passo-a-Passo no Vision Studio"></video>
 
-### Etapa 3: detectar rostos em uma imagem
+### Etapa 3: Detectar Rostos em uma Imagem
 Na página inicial do Portal Vision Studio, acessei a aba "Face" e cliquei em "Detect faces in an images".
 
 Na próxima página, em "Try it out", precisei informar o recurso criado anteriormente no Portal do Azure para testar (marcando na opção de acordo com o recurso/laboratório que você deseja usar). Sem escolher o recurso, não consegui obter a resposta do teste.
@@ -59,7 +59,7 @@ Máscara facial: não
 
 É importante destacar a capacidade que a Visão Computacional teve de identificar diferentes rostos, incluindo o rosto de um animal, e também os rostos de pessoas usando máscara.
 
-Você pode conferir os resultados da análise aqui: 01_facial_análise.json
+Você pode conferir os resultados da análise aqui: [01_facial_análise.json]()
 
 ### Etapa 4: Análise de Documentos
 Vamos trabalhar com o módulo Extração de texto de imagens do Vision Studio.
@@ -103,7 +103,7 @@ Imagem utilizada: [Foto de Família - Legenda de Imagem - Legenda em Inglês.png
 
 <img src="Inputs/Foto de Família - Legenda de Imagem - Legenda em Inglês.png">
 
-Você pode conferir os resultados da análise aqui: Foto_de_Família/Inglês.json
+Você pode conferir os resultados da análise aqui: Foto_de_Família__Inglês.json
 
 **Resultado em Português:**
 
@@ -111,7 +111,7 @@ Imagem utilizada: [Família - Legenda de Imagem - Legenda em Português.png](htt
 
 <img src="Inputs/Família - Legenda de Imagem - Legenda em Português.png">
 
-Você pode conferir os resultados da análise aqui: Foto_de_Família/Português.json
+Você pode conferir os resultados da análise aqui: Foto_de_Família__Português.json
 
 É possível observar que o serviço Azure Vision Studio conseguiu descrever o momento em que a imagem passa de forma assertiva.
 

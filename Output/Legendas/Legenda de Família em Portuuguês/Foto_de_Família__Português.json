@@ -1,0 +1,15 @@
+
+{
+    "apim-request-id": "e342ebdc-0621-44b5-9318-fb8853576425",
+    "comprimento do conteúdo": "172",
+    "content-type": "aplicativo/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "texto": "um grupo de pessoas tilintando copos em uma mesa",
+      "confiança": 0,835411787033081
+    },
+    "metadados": {
+      "largura": 960,
+      "altura": 1280
+    }
+  }
