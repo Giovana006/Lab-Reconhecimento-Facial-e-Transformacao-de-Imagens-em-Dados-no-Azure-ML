@@ -14,9 +14,11 @@ do Azure. Na próxima etapa, configuraremos o Recurso e criaremos um novo Grupo 
 
 Para criar clicamos em “Revisar + Criar” e depois em “Criar”, como demonstrado no vídeo.
 
-<video src="Assets/Passo-a-Passo%20de%20Criar%20um%20Recurso%20no%20Azure%20ML.mp4" controls title="Passo-a-Passo de Criar um Recurso no Azure ML"></video>
+<div align="center">
+ 
+<img src="Assets/Passo-a-Passo de Criar um Recurso no Azure ML-4.gif"/>
 
-![Passo-a-Passo de Criar um Recurso no Azure ML](<Passo-a-Passo de Criar um Recurso no Azure ML.gif>)
+</div>
 
 ### Etapa 2: Acessando o Portal Vision Studio
 
