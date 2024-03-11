@@ -24,7 +24,11 @@ Para criar clicamos em “Revisar + Criar” e depois em “Criar”, como demon
 
 Após o recurso ter sido criado, acessaremos o [Portal do Vision Studio](https://portal.vision.cognitive.azure.com/demo/image-captioning) . **Acesse com a sua conta Azure** e vá em "View all resorces" e será apresentado o recurso criado na etapa anterior. Marque a opção do seu laboratório (nome) do seu recurso Azure que criamos na etapa anterior de acordo com os passo-a-passos do vídeo a seguir:
 
-<video src="Assets/Passo-a-Passo%20no%20Vision%20Studio-1.mp4" controls title="Passo-a-Passo no Vision Studio"></video>
+<div align="center">
+ 
+<img src="Assets/Passo-a-Passo no Vision Studio-1.gif"/>
+
+</div>
 
 ### Etapa 3: Detectar Rostos em uma Imagem
 Na página inicial do Portal Vision Studio, acessei a aba "Face" e cliquei em "Detect faces in an images".
@@ -33,7 +37,11 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 Passo-a-Passo da Etapa no Vídeo a Seguir:
 
-<video src="Assets/Passo-a-Passo%20-%20Teste%20Identificar%20o%20Rosto.mp4" controls title="Passo-a-Passo - Teste Identificar o Rosto"></video>
+<div align="center">
+ 
+<img src="Assets/Passo-a-Passo - Teste Identificar o Rosto-3.gif"/>
+
+</div>
 
 **Teste de Imagem:**
 
@@ -74,7 +82,11 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 De acordo com o Passo-a-Passo do vídeo a seguir:
 
-<video src="Assets/Passo-a-Passo%20-%20Teste%20Identificar%20Texto.mp4" controls title="Passo-a-Passo - Teste Identificar Texto"></video>
+<div align="center">
+ 
+<img src="Passo-a-Passo - Teste Identificar Texto.gif"/>
+
+</div>
 
 **Teste de Texto:**
 
@@ -95,7 +107,11 @@ Na próxima página, em "Try it out", precisei informar o recurso criado anterio
 
 De acordo com o Passo-a-Passo do vídeo a seguir:
 
-<video src="Assets/Passo-a-Passo%20-%20Teste%20Legenda%20de%20Imagem.mp4" controls title="Passo-a-Passo - Teste Legenda de Imagem"></video>
+<div align="center">
+ 
+<img src="Passo-a-Passo - Teste Legenda de Imagem.gif"/>
+
+</div>
 
 **Teste de Legenda de Imagem:**
 
