@@ -84,7 +84,7 @@ De acordo com o Passo-a-Passo do vídeo a seguir:
 
 <div align="center">
  
-<img src="Passo-a-Passo - Teste Identificar Texto.gif"/>
+<img src="Assets/Passo-a-Passo - Teste Identificar Texto.gif"/>
 
 </div>
 
